@@ -3,7 +3,9 @@
 
 A simple GUI tool for Linux users to create SSH keys, save them securely, and get your public key ready for GitHub – no terminal commands needed!
 
-![SSH Key Wizard Screenshot](./images/keyGen_screenshot.png) <!-- Add a screenshot of your GUI here -->
+<p align="center">
+  <img src="./images/keyGen_screenshot.png" alt="SSH Key Wizard Screenshot">
+</p>
 
 ## What Does This Tool Do? ✨
 
