@@ -38,9 +38,9 @@ pip3 install customtkinter
 ```
 
 ### Step 2: Run the Program
-Download the script (`ssh_key_wizard.py`) and run:
+Download or copy the script (`main.py`) and run:
 ```bash
-python3 ssh_key_wizard.py
+python3 main.py
 ```
 
 ### Step 3: Fill in the Form
